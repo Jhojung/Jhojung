@@ -10,12 +10,6 @@
   <code>#Developer</code> <code>#C</code> <code>#Machine_Learning</code> <code>#time_sleep(∞)</code>
 </p>
 
-<p>
-  <a href="https://komarev.com/ghpvc/?username=Jhojung">
-    <img src="https://komarev.com/ghpvc/?username=Jhojung&color=blueviolet&style=flat-square" alt="Profile views" />
-  </a>
-  </p>
-
 ---
 
 ### 🤔 About Me
