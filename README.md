@@ -2,15 +2,15 @@
   <img src="https://i.pinimg.com/originals/fa/8c/24/fa8c248ccd02d76b7b321da88c75a0e1.gif" width="500">
 </p>
 
-<h1 align="center">👋 Hey there, I'm Hojung Jin (a.k.a. Jhojung)! 🧀</h1>
+<h1>👋 Hey there, I'm Hojung Jin (a.k.a. Jhojung)! 🧀</h1>
 
-<h3 align="center">🌱 Yet Another Growing Developer (YaGD) 🌱</h3>
+<h3>🌱 Yet Another Growing Developer (YaGD) 🌱</h3>
 
-<p align="center">
+<p>
   <code>#Developer</code> <code>#C</code> <code>#Machine_Learning</code> <code>#time_sleep(∞)</code>
 </p>
 
-<p align="center">
+<p>
   <a href="https://komarev.com/ghpvc/?username=Jhojung">
     <img src="https://komarev.com/ghpvc/?username=Jhojung&color=blueviolet&style=flat-square" alt="Profile views" />
   </a>
@@ -28,7 +28,7 @@
 
 ### 📫 Contact Me
 
-<p align="center">
+<p>
   <a href="mailto:jhojung0311@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:jhojung0311@skku.edu"><img src="https://img.shields.io/badge/-SKKU Mail-003e7f?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
   <a href="https://www.instagram.com/jho_jhojung/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -38,8 +38,8 @@
 
 ### 💻 Skills & Learning
 
-<p align="center">
-  <strong>Languages & Web:</strong><br/>
+<p>
+  <strong>Languages & Web:</strong><br/><br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -50,22 +50,12 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white"/>
   <br/><br/>
-  <strong>Concepts:</strong><br/>
+  <strong>Concepts:</strong><br/><br>
   <img src="https://img.shields.io/badge/Data Structures-Algorithm-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Database-DB-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Machine Learning-ML-yellowgreen?style=flat-square"/>
   <br/><br/>
   <strong>Currently Focusing On:</strong><br> Revisiting <strong>C</strong> and <strong>Data Structures</strong> from the <strong>START LINE!</strong> 🚀
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhojung&show_icons=true&theme=radical&rank_icon=github" alt="Jhojung's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhojung&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
