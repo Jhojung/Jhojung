@@ -16,7 +16,7 @@
 
 * **Name:** Hojung Jin (Jhojung)
 * **Location:** Suwon, Republic of Korea 🇰🇷
-* **School:** Sungkyunkwan University (SKKU), Computer Science and Engineering (CSE)
+* **School:** Sungkyunkwan University, Suwon, South Korea, B.S. in Computer Science and Engineering — Expected Feb 2030 or later  
 * **Interested in:** Developing Game / Game Engine, UI/UX
 
 ---
@@ -54,14 +54,10 @@
 
 ### 🎓 Education
 
-* `2025 ~ Present` <img src="https://ammoniaenergy.org/wp-content/uploads/2021/01/Sungkyunkwan_University_seal.svg.png" width="12" alt="SKKU logo"/> **Sungkyunkwan University**
+* `2025.03 ~ Present` <img src="https://ammoniaenergy.org/wp-content/uploads/2021/01/Sungkyunkwan_University_seal.svg.png" width="12" alt="SKKU logo"/> **Sungkyunkwan University**
     * *Department of Computer Science and Engineering*
-* `2022 ~ 2024` <img src="https://i.namu.wiki/i/ts0UJaKxKRoUv1mD1rnbIEbr5tm5b7g4H7Sl-L5chF0uUfbRJ8bksdWhUlIDLnsCeZ96UxvKMx85N9mZ9KLatQ.webp" width="15" alt="KDMHS logo"/> **Korea Digital Media High School (KDMHS)**
+* `2022.03 ~ 2025.01` <img src="https://i.namu.wiki/i/ts0UJaKxKRoUv1mD1rnbIEbr5tm5b7g4H7Sl-L5chF0uUfbRJ8bksdWhUlIDLnsCeZ96UxvKMx85N9mZ9KLatQ.webp" width="15" alt="KDMHS logo"/> **Korea Digital Media High School (KDMHS)**
     * *Graduated, 21st Department of Web-Programming*
-* `2019 ~ 2021` **Cheon-Cheon Middle School**
-    * *Graduated*
-* `2013 ~ 2018` **Cheon-Cheon Elementary School**
-    * *Graduated*
 
 ---
 
