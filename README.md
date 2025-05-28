@@ -7,7 +7,7 @@
 <h3>🌱 Yet Another Growing Developer (YaGD) 🌱</h3>
 
 <p>
-  <code>#Developer</code> <code>#C</code> <code>#Data_Science</code> <code>#time_sleep(∞)</code>
+  <code>#Developer</code> <code>#C++</code> <code>#Game_Engine</code> <code>#time_sleep(∞)</code>
 </p>
 
 ---
@@ -17,6 +17,7 @@
 * **Name:** Hojung Jin (Jhojung)
 * **Location:** Suwon, Republic of Korea 🇰🇷
 * **School:** Sungkyunkwan University (SKKU), Computer Science and Engineering (CSE)
+* **Interested in:** Developing Game / Game Engine, UI/UX
 
 ---
 
@@ -46,7 +47,7 @@
   <img src="https://img.shields.io/badge/Database-DB-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Machine Learning-ML-yellowgreen?style=flat-square"/>
   <br/><br/>
-  <strong>Currently Focusing On:</strong><br> Revisiting <strong>C</strong> and <strong>Data Structures</strong> from the <strong>START LINE!</strong> 🚀
+  <strong>Currently Focusing On:</strong><br> Learning <strong>C++</strong> and <strong>Deeper knowledge of C</strong> 🚀
 </p>
 
 ---
@@ -66,8 +67,8 @@
 
 ### 💼 Career & Experience
 
-* `2025 ~ Present` **Public Relations (PR)** @ SKKU CSE Student Council
-* `2025.05 ~ 2025.08` **Mentor** @ '2025 Sungkyun SW Mentor' Program (Data Science)
+* `2025.03 ~ Present` **Public Relations (PR)** @ SKKU CSE Student Council
+* `2025.05 ~ Present` **Mentor** @ '2025 Sungkyun SW Mentor' Program (Data Science)
 * `2023.09 ~ 2023.12` **Program Director** @ 'Codebakery X [Code.org](https://code.org/): Hours of Code, Basics of AI' Program
 * `2023.08 ~ 2023.09` **Program Director** @ 'Codebakery X Ansan Job Fair: Basis of Web Programming' Program
 * `2023.05 ~ 2023.08` **Program Director** @ 'Codebakery X Sosa Youth Center: Create Own Games' Program
@@ -82,6 +83,5 @@
 
 * `2022` **Grand Prize** - KDMHS C Language Console Game Programming Challenge
 * `2022` **Linux Master Level-II** (Certificate No: `LMS-2204-006793`)
-* Will (Maybe?) Study for Craftsman Information Processing
 
 ---
