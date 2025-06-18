@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/fa/8c/24/fa8c248ccd02d76b7b321da88c75a0e1.gif" width="500">
 </p>
 
-<h1>👋 Hey there, I'm Hojung Jin (a.k.a. Jhojung)! 🧀</h1>
+<h1>👋 Hey there, I'm Jhojung! 🧀</h1>
 
 <h3>🌱 Yet Another Growing Developer (YaGD) 🌱</h3>
 
