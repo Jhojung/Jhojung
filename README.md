@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Database-DB-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Machine Learning-ML-yellowgreen?style=flat-square"/>
   <br/><br/>
-  <strong>Currently Focusing On:</strong><br> Learning <strong>C++</strong> and <strong>Deeper knowledge of C</strong> 🚀
+  <strong>Currently Focusing On:</strong><br> Learning <strong>C++</strong> and <strong>C#</strong> 🚀
 </p>
 
 ---
