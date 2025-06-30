@@ -57,6 +57,8 @@
 
 * `2025.03 ~ Present` <img src="https://ammoniaenergy.org/wp-content/uploads/2021/01/Sungkyunkwan_University_seal.svg.png" width="12" alt="SKKU logo"/> **Sungkyunkwan University**
     * *B.S. in Department of Computer Science and Engineering*
+    * *Overall GPA: 4.5/4.5*
+    * *Major GPA: 4.5/4.5*
 * `2022.03 ~ 2025.01` <img src="https://i.namu.wiki/i/ts0UJaKxKRoUv1mD1rnbIEbr5tm5b7g4H7Sl-L5chF0uUfbRJ8bksdWhUlIDLnsCeZ96UxvKMx85N9mZ9KLatQ.webp" width="15" alt="KDMHS logo"/> **Korea Digital Media High School (KDMHS)**
     * *Graduated, 21st Department of Web-Programming (AI-Course)*
 
