@@ -73,8 +73,6 @@
 * `2023.05 ~ 2023.08` **Program Director** @ 'Codebakery X Sosa Youth Center: Create Own Games' Program
 * `2022 ~ 2024` **Student PR Team Member** @ KDMHS
 * `2022 ~ 2024` **9th Leader & Educator** @ Codebakery (*KDMHS Programming Education Club*)
-* `2019 ~ 2021` **Sound Engineer** @ Cheon-Cheon Middle School Broadcast System
-* `2018 ~ 2019` **Peer Counselor** @ Cheon-Cheon Elementary School
 
 ---
 
