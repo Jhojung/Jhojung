@@ -4,7 +4,7 @@
 
 <h1>🧀 Hey there, I'm Jhojung!</h1>
 
-<h3>🌱 Yet Another Growing Developer (YaGD) 🌱</h3>
+<h3>The way is always to be found from me 🌱</h3>
 
 <p>
   <code>#Developer</code> <code>#C++</code> <code>#Game_Engine</code> <code>#time_sleep(∞)</code>
