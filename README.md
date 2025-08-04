@@ -6,10 +6,6 @@
 
 <h3>The way is always to be found from me 🌱</h3>
 
-<p>
-  <code>#Developer</code> <code>#C++</code> <code>#Game_Engine</code> <code>#time_sleep(∞)</code>
-</p>
-
 ---
 
 ### 🤔 About Me
@@ -17,7 +13,7 @@
 * **Name:** Hojung Jin (Jhojung)
 * **Location:** Suwon, Republic of Korea 🇰🇷
 * **School:** Sungkyunkwan University, Suwon, South Korea, B.S. in Computer Science and Engineering
-* **Interested in:** Developing Game / Game Engine, UI/UX
+* **Interested in:** System Programming / HCI
 
 ---
 
